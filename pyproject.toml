@@ -1,0 +1,19 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cheminot"
+version = "1.0.0"
+description = "Wrapper for Cheminot's API"
+readme = "README.md"
+authors = [{ name = "Arianne" }]
+license = { file = "LICENSE" }
+keywords = ["cheminot", "ets"]
+dependencies = [
+    "requests"
+]
+requires-python = ">=3.10"
+
+[project.urls]
+Homepage = "https://github.com/ariannelafraise/cheminot-api-wrapper"

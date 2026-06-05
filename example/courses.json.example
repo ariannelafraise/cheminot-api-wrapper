@@ -1,0 +1,12 @@
+[
+    {
+        "course_id":"XXX100",
+        "group_number": "01",
+        "concentration": "TC"
+    },
+    {
+        "course_id":"XXX200",
+        "group_number": "12",
+        "concentration": "AX"
+    }
+]
