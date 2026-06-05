@@ -1,4 +1,4 @@
-# Cheminot API Wrapper
+# Cheminot API wrapper
 
 A simple wrapper for Cheminot's API to aid in registration automation.
 
