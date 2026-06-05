@@ -1,6 +1,8 @@
 # Cheminot API Wrapper
 
-A simple wrapper for cheminot's API to aid in registration automation.
+A simple wrapper for Cheminot's API to aid in registration automation.
+
+Cheminot is the course registration application of École de technologie supérieure. 
 
 > [!CAUTION]
 > Registration automation may not be allowed; real usage of this wrapper is discouraged.
