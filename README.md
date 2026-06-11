@@ -1,5 +1,9 @@
 # Cheminot API wrapper
 
+[![Upload Python Package](https://github.com/ariannelafraise/cheminot-api-wrapper/actions/workflows/pypi.yml/badge.svg)](https://github.com/ariannelafraise/cheminot-api-wrapper/actions/workflows/pypi.yml)
+![PyPI](https://img.shields.io/pypi/v/cheminot?label=pypi%20package)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/cheminot)
+
 A simple wrapper for Cheminot's API to aid in registration automation.
 
 Cheminot is the course registration application of École de technologie supérieure. 
