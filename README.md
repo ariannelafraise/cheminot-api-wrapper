@@ -2,7 +2,7 @@
 
 [![Upload Python Package](https://github.com/ariannelafraise/cheminot-api-wrapper/actions/workflows/pypi.yml/badge.svg)](https://github.com/ariannelafraise/cheminot-api-wrapper/actions/workflows/pypi.yml)
 ![PyPI](https://img.shields.io/pypi/v/cheminot?label=pypi%20package)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/cheminot)
+![PyPI - Downloads](https://img.shields.io/PyPi/dm/cheminot)
 
 A simple wrapper for Cheminot's API to aid in registration automation.
 
